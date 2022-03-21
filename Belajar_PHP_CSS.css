@@ -1,0 +1,161 @@
+body{
+	background-color: #151D3B;
+	margin: 20px;
+
+}
+html{
+	scroll-behavior: smooth;
+}
+.nav{
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+}
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+nav ul li{
+	float: left;
+}
+nav ul li a{
+	color: black;
+	font-weight: bold;
+	text-align: right;
+	padding: 0px 16px 0px 16px;
+	text-decoration: none;
+}
+.item{
+	color: #05595B;
+	font-weight: bold;
+	text-align: right;
+	padding: 0px 16px 0px 16px;
+	text-decoration: none;
+	float: right;
+}
+video{
+	background-color: FBF8F1;
+	height: 600px;
+	margin: 20px;
+	margin-left: 1400px;
+	margin-top: -90000px;
+	margin-bottom: 164px;
+	border: 8px dashed #141E27;
+}
+.Name1{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name2{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name3{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name4{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name5{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name6{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Name7{
+	margin-top: 10px;
+	background-color: #00FFDD;
+	font-size: 33px;
+	text-align: left;
+	margin: 20px;
+	padding: 50px;
+	height: 50pc;
+	border-radius: 30px;
+	border: 15px double #F68989;
+	transition: all 0,10 ease;
+}
+.Judul{
+	background-color: white;
+	background-position: center;
+	font-size: 59px;
+	text-align: center;
+	margin: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-family: arial,	verdana, helvetica;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
+}
+.box{
+	padding: 35px;
+	padding-left: 50px;
+	background-color: #85F4FF;
+	font-size: 50px;
+	text-align: left ;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: arial,	verdana, helvetica;
+	font-weight: bold;
+	font-variant: small-caps;
+	border: 10px dashed black;
+	
+}
